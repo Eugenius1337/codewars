@@ -1,6 +1,4 @@
-# Overview
-
-## Instructions
+# Instructions
 
 For this kata we will be using the DVD Rental database.
 
